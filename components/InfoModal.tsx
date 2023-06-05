@@ -1,3 +1,4 @@
+// Information Model
 import React, { useCallback, useEffect, useState } from 'react';
 import { XMarkIcon } from '@heroicons/react/24/outline';
 
